@@ -1,2 +1,2 @@
 # Comp2019
-All work from semester 3 in collage
+All work from Comp2019 in semester 3 of collage 
